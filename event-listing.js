@@ -640,7 +640,7 @@ document.addEventListener('DOMContentLoaded', () => {
             listHeader.className = 'event-list-header';
             listHeader.innerHTML = 
                 `<h3 style="margin-bottom: 0px; padding-bottom: 10px; padding-top: 0px; margin-top: 0px; border-bottom: 1px solid #ddd; position: sticky; top: 0;  z-index: 10;">
-                    Upcoming Events 123
+                    Upcoming Events
                 </h3>`; //Upcoming Events (${futureEvents.length})
 
             eventListView.appendChild(listHeader);
