@@ -23,7 +23,7 @@ require 'lib/plugin-update-checker-master/plugin-update-checker.php';
 use YahnisElsts\PluginUpdateChecker\v5\PucFactory;
 
 $updateChecker = PucFactory::buildUpdateChecker(
-    'https://github.com/SmAshiqur/event-listing-calendar',
+    'https://github.com/SmAshiqur/calendar',
     __FILE__,
     'event-listing-calendar' 
 );
