@@ -25,7 +25,7 @@ use YahnisElsts\PluginUpdateChecker\v5\PucFactory;
 $updateChecker = PucFactory::buildUpdateChecker(
     'https://github.com/SmAshiqur/calendar',
     __FILE__,
-    'event-listing-calendar' 
+    'calendar' 
 );
 
 // Set the branch (change to 'master' if that's your default branch)
