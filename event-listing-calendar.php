@@ -7,7 +7,7 @@ Version: 3.4
 Author: MASJIDSOLUTIONS
 Author URI: https://masjidsolutions.net/
 License: GPL2
-GitHub Plugin URI: SmAshiqur/event-listing-calendar
+GitHub Plugin URI: SmAshiqur/calendar
 */
 
 if (!defined('ABSPATH')) {
