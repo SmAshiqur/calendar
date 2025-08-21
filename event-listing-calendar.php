@@ -2,8 +2,8 @@
 /*
 Plugin Name: Event Listing Calendar
 Plugin URI: https://masjidsolutions.net/
-Description: A plugin to display events in a calendar and list format using FullCalendar and Flatpickr.
-Version: 3.4.4
+Description: A plugin to display events in a calendar and list format using FullCalendar.
+Version: 3.4.5
 Author: MASJIDSOLUTIONS
 Author URI: https://masjidsolutions.net/
 License: GPL2
@@ -15,7 +15,7 @@ if (!defined('ABSPATH')) {
 }
 
 // Fixed version constant to match header
-define('ELC_VERSION', '3.4.4');
+define('ELC_VERSION', '3.4.5');
 define('ELC_PLUGIN_URL', plugin_dir_url(__FILE__));
 define('ELC_PLUGIN_PATH', plugin_dir_path(__FILE__));
 
